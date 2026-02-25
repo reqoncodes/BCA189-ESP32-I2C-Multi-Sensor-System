@@ -1,0 +1,20 @@
+# Compiled files
+*.exe
+*.hex
+*.bin
+*.elf
+*.map
+
+# Arduino build files
+build/
+*.arduino*
+*.ino.cpp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# MacOS
+.DS_Store
